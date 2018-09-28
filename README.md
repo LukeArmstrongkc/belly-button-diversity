@@ -4,6 +4,10 @@
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
+## Luke's Heroku App Can Be Found Below:
+
+https://belly-button-diversity-lakc.herokuapp.com/
+
 ## Step 1 - Plotly.js
 
 Use Plotly.js to build interactive charts for your dashboard.
@@ -53,6 +57,3 @@ Deploy your Flask app to Heroku.
 
 - - -
 
-## Luke's Heroku App Can Be Found Below:
-
-https://belly-button-diversity-lakc.herokuapp.com/
